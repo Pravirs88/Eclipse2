@@ -3,7 +3,7 @@ package inheritance;
 public class Class1 {
 	public  void Pravir() 
 	{
-		System.out.println("my name is Pravir salunkhe");
+		System.out.println("my name is Pooja gade");
 	}
 public void Pravir(int a) 
     {
