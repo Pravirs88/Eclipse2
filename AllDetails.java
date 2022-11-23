@@ -7,7 +7,7 @@ public abstract class AllDetails {
 }
 public void mobileNo() {
 	System.out.println("my moblie no is 8866105442");
-	System.out.println("I am from satara");
+	System.out.println("I am from maharashtra");
 }
  abstract public void aadharNo();
 	
